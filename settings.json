@@ -1,0 +1,9 @@
+{
+  "username": "<username>",
+  "password": "<password>",
+  "router": {
+    "identifier": "<identifier>",
+    "authorization": "<authorization>"
+  },
+  "shouldPublish": true
+}
