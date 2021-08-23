@@ -9,7 +9,7 @@ const GLOBAL_ACTIONS = {
       $invalid: false,
       settings: {
         variable: 'flOrigem',
-        value: '{{state.id}}'
+        value: '{{state.name}}'
       },
       conditions: []
     },
